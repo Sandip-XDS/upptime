@@ -3,6 +3,8 @@ owner: Sandip-XDS # Your GitHub organization or username, where this repository 
 repo: imedia # The name of this repository
 
 sites:
+  - name: Sharda Computers
+    url: https://www.shardacomputers.xyz
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -24,8 +26,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
