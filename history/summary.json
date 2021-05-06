@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.shardacomputers.xyz",
     "slug": "sharda-computers",
     "status": "down",
-    "uptime": "30.80%",
-    "uptimeDay": "20.87%",
-    "uptimeWeek": "30.80%",
-    "uptimeMonth": "30.80%",
-    "uptimeYear": "30.80%",
+    "uptime": "30.41%",
+    "uptimeDay": "19.40%",
+    "uptimeWeek": "30.41%",
+    "uptimeMonth": "30.41%",
+    "uptimeYear": "30.41%",
     "time": 845,
     "timeDay": 864,
     "timeWeek": 845,
     "timeMonth": 845,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2021-05-06": 1140
+      "2021-05-06": 1161
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "http://monetizemedia.com",
     "icon": "https://favicons.githubusercontent.com/monetizemedia.com",
     "slug": "monetizemedia",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4285,
-    "timeDay": 4285,
-    "timeWeek": 4285,
-    "timeMonth": 4285,
-    "timeYear": 4285,
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.29%",
+    "time": 3962,
+    "timeDay": 3962,
+    "timeWeek": 3962,
+    "timeMonth": 3962,
+    "timeYear": 3962,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 21
     }
   }
 ]
