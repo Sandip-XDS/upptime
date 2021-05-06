@@ -5,14 +5,33 @@ repo: imedia # The name of this repository
 sites:
   - name: Sharda Computers
     url: https://www.shardacomputers.xyz
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: IntelliLoop - Admin 
+    url: https://admin.intelliloop.app
+  - name: Thenewstream - Admin
+    url: http://admin.thenewstream.com
+  - name: Apolloltms
+    url: http://apolloltms.com
+  - name: ASCT Systems - asct.systems
+    url: http://asct.systems
+  - name: Eris - eris.co.in
+    url: https://eris.co.in
+  - name: Intelliloop
+    url: https://www.intelliloop.app
+  - name: Monetizemedia
+    url: http://monetizemedia.com
+  # - name: Sharda Computers
+  #   url: https://www.shardacomputers.xyz
+  # - name: Sharda Computers
+  #   url: https://www.shardacomputers.xyz
+  # - name: Sharda Computers
+  #   url: https://www.shardacomputers.xyz
+  # - name: Sharda Computers
+  #   url: https://www.shardacomputers.xyz
+  # - name: Sharda Computers
+  #   url: https://www.shardacomputers.xyz
+  # - name: Sharda Computers
+  #   url: https://www.shardacomputers.xyz
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
