@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.shardacomputers.xyz",
     "slug": "sharda-computers",
     "status": "down",
-    "uptime": "13.14%",
+    "uptime": "12.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "13.14%",
-    "uptimeYear": "13.14%",
+    "uptimeMonth": "12.27%",
+    "uptimeYear": "12.98%",
     "time": 779,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 779,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2021-06-05": 110,
+      "2021-06-05": 666,
       "2021-06-04": 1440,
       "2021-06-03": 1440,
       "2021-06-02": 1440,
@@ -161,9 +161,9 @@
     "url": "http://monetizemedia.com",
     "icon": "https://favicons.githubusercontent.com/monetizemedia.com",
     "slug": "monetizemedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -173,6 +173,7 @@
     "timeMonth": 2193,
     "timeYear": 2193,
     "dailyMinutesDown": {
+      "2021-06-05": 0,
       "2021-05-06": 21
     }
   }
