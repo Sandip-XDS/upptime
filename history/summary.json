@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2021-07-03": 1188,
+      "2021-07-03": 1199,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
@@ -117,11 +117,11 @@
     "url": "http://apolloltms.com",
     "icon": "https://favicons.githubusercontent.com/apolloltms.com",
     "slug": "apolloltms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 2351,
     "timeDay": 13124,
@@ -129,7 +129,7 @@
     "timeMonth": 3583,
     "timeYear": 2351,
     "dailyMinutesDown": {
-      "2021-07-03": 64
+      "2021-07-03": 66
     }
   },
   {
@@ -177,18 +177,18 @@
     "icon": "https://favicons.githubusercontent.com/www.intelliloop.app",
     "slug": "intelliloop",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "81.52%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.67%",
+    "uptimeDay": "80.76%",
+    "uptimeWeek": "97.25%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.67%",
     "time": 1907,
     "timeDay": 16076,
     "timeWeek": 5172,
     "timeMonth": 2519,
     "timeYear": 1907,
     "dailyMinutesDown": {
-      "2021-07-03": 266
+      "2021-07-03": 277
     }
   },
   {
@@ -196,19 +196,19 @@
     "url": "http://monetizemedia.com",
     "icon": "https://favicons.githubusercontent.com/monetizemedia.com",
     "slug": "monetizemedia",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.87%",
-    "time": 1819,
-    "timeDay": 1666,
-    "timeWeek": 1666,
-    "timeMonth": 1465,
-    "timeYear": 1819,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.85%",
+    "time": 1845,
+    "timeDay": 1883,
+    "timeWeek": 1797,
+    "timeMonth": 1521,
+    "timeYear": 1845,
     "dailyMinutesDown": {
-      "2021-07-03": 40,
+      "2021-07-03": 51,
       "2021-06-05": 51,
       "2021-05-06": 21
     }
