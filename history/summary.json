@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2021-07-03": 928,
+      "2021-07-03": 948,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
@@ -117,19 +117,19 @@
     "url": "http://apolloltms.com",
     "icon": "https://favicons.githubusercontent.com/apolloltms.com",
     "slug": "apolloltms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1477,
-    "timeDay": 3041,
-    "timeWeek": 2068,
-    "timeMonth": 2009,
-    "timeYear": 1477,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1942,
+    "timeDay": 11985,
+    "timeWeek": 5157,
+    "timeMonth": 2880,
+    "timeYear": 1942,
     "dailyMinutesDown": {
-      "2021-07-03": 2
+      "2021-07-03": 20
     }
   },
   {
@@ -177,18 +177,18 @@
     "icon": "https://favicons.githubusercontent.com/www.intelliloop.app",
     "slug": "intelliloop",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.92%",
     "time": 1444,
     "timeDay": 2906,
     "timeWeek": 1733,
     "timeMonth": 1628,
     "timeYear": 1444,
     "dailyMinutesDown": {
-      "2021-07-03": 45
+      "2021-07-03": 65
     }
   },
   {
