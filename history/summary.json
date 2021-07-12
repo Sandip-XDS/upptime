@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 779,
     "dailyMinutesDown": {
-      "2021-07-12": 637,
+      "2021-07-12": 658,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
@@ -129,10 +129,10 @@
     "url": "http://apolloltms.com",
     "icon": "https://favicons.githubusercontent.com/apolloltms.com",
     "slug": "apolloltms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.90%",
     "time": 2253,
@@ -141,6 +141,7 @@
     "timeMonth": 3578,
     "timeYear": 2253,
     "dailyMinutesDown": {
+      "2021-07-12": 2,
       "2021-07-03": 96
     }
   },
@@ -150,18 +151,18 @@
     "icon": "https://favicons.githubusercontent.com/asct.systems",
     "slug": "asct-systems-asct-systems",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 1781,
     "timeDay": 2021,
     "timeWeek": 1517,
     "timeMonth": 2198,
     "timeYear": 1781,
     "dailyMinutesDown": {
-      "2021-07-12": 0
+      "2021-07-12": 21
     }
   },
   {
