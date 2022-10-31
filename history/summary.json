@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 4827,
     "dailyMinutesDown": {
-      "2022-10-31": 683,
+      "2022-10-31": 699,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
@@ -510,14 +510,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.86%",
+    "uptimeYear": "89.85%",
     "time": 1676,
     "timeDay": 1199,
     "timeWeek": 1096,
     "timeMonth": 1060,
     "timeYear": 1697,
     "dailyMinutesDown": {
-      "2022-10-31": 683,
+      "2022-10-31": 699,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
       "2022-10-28": 1440,
@@ -622,13 +622,13 @@
     "url": "http://monetizemedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/monetizemedia.com.ico",
     "slug": "monetizemedia",
-    "status": "up",
+    "status": "down",
     "uptime": "97.32%",
-    "uptimeDay": "96.01%",
+    "uptimeDay": "95.99%",
     "uptimeWeek": "99.43%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "96.00%",
-    "time": 2392,
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "96.01%",
+    "time": 2394,
     "timeDay": 1152,
     "timeWeek": 847,
     "timeMonth": 1252,
@@ -703,7 +703,7 @@
       "2021-12-21": 802,
       "2021-12-16": 38,
       "2021-12-15": 20,
-      "2021-12-12": 69
+      "2021-12-12": 44
     }
   }
 ]
