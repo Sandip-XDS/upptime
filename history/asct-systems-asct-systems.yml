@@ -1,7 +1,7 @@
 url: http://asct.systems
-status: up
-code: 200
-responseTime: 1827
-lastUpdated: 2023-06-18T11:12:51.680Z
+status: down
+code: 502
+responseTime: 9176
+lastUpdated: 2023-06-18T19:36:21.781Z
 startTime: Thu May 06 2021 02:18:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
