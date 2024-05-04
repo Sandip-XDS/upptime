@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-03": 1392,
+      "2024-05-04": 79,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -379,8 +380,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   },
   {
@@ -395,7 +395,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 112,
+    "timeDay": 82,
     "timeWeek": 112,
     "timeMonth": 115,
     "timeYear": 136,
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.thenewstream.com.ico",
     "slug": "thenewstream-admin",
     "status": "down",
-    "uptime": "87.16%",
+    "uptime": "87.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.22%",
+    "uptimeYear": "70.19%",
     "time": 177,
     "timeDay": 0,
     "timeWeek": 854,
     "timeMonth": 854,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-05-03": 1392,
+      "2024-05-04": 79,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -542,7 +543,7 @@
     "uptimeMonth": "96.98%",
     "uptimeYear": "93.02%",
     "time": 2744,
-    "timeDay": 97,
+    "timeDay": 78,
     "timeWeek": 66,
     "timeMonth": 663,
     "timeYear": 2656,
@@ -600,7 +601,7 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "55.67%",
     "time": 1687,
-    "timeDay": 1124,
+    "timeDay": 947,
     "timeWeek": 1007,
     "timeMonth": 1139,
     "timeYear": 1252,
@@ -806,12 +807,13 @@
     "uptimeMonth": "2.09%",
     "uptimeYear": "6.33%",
     "time": 1211,
-    "timeDay": 1322,
+    "timeDay": 1540,
     "timeWeek": 1250,
     "timeMonth": 1314,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2024-05-03": 1379,
+      "2024-05-04": 79,
+      "2024-05-03": 1427,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1412,
@@ -1151,8 +1153,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   },
   {
@@ -1161,10 +1162,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intelliloop.app.ico",
     "slug": "intelliloop",
     "status": "down",
-    "uptime": "87.04%",
+    "uptime": "87.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.06%",
+    "uptimeMonth": "25.77%",
     "uptimeYear": "74.01%",
     "time": 2515,
     "timeDay": 0,
@@ -1172,7 +1173,8 @@
     "timeMonth": 2475,
     "timeYear": 2500,
     "dailyMinutesDown": {
-      "2024-05-03": 1392,
+      "2024-05-04": 79,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -1276,8 +1278,7 @@
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   },
   {
@@ -1292,7 +1293,7 @@
     "uptimeMonth": "93.34%",
     "uptimeYear": "99.36%",
     "time": 1087,
-    "timeDay": 463,
+    "timeDay": 359,
     "timeWeek": 381,
     "timeMonth": 529,
     "timeYear": 1081,
