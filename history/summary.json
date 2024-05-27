@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-27": 776,
+      "2024-05-27": 797,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 854,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-05-27": 776,
+      "2024-05-27": 797,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -563,7 +563,7 @@
     "uptime": "88.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.71%",
+    "uptimeMonth": "69.66%",
     "uptimeYear": "90.49%",
     "time": 2665,
     "timeDay": 0,
@@ -571,7 +571,7 @@
     "timeMonth": 477,
     "timeYear": 2569,
     "dailyMinutesDown": {
-      "2024-05-27": 776,
+      "2024-05-27": 798,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
@@ -841,16 +841,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "85.53%",
-    "uptimeDay": "2.27%",
-    "uptimeWeek": "2.97%",
-    "uptimeMonth": "3.29%",
-    "uptimeYear": "55.71%",
+    "status": "down",
+    "uptime": "85.64%",
+    "uptimeDay": "3.72%",
+    "uptimeWeek": "3.18%",
+    "uptimeMonth": "3.34%",
+    "uptimeYear": "56.05%",
     "time": 1286,
-    "timeDay": 1612,
-    "timeWeek": 1589,
-    "timeMonth": 1525,
+    "timeDay": 1520,
+    "timeWeek": 1576,
+    "timeMonth": 1521,
     "timeYear": 1335,
     "dailyMinutesDown": {
       "2024-05-27": 767,
@@ -1014,9 +1014,7 @@
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
-      "2023-12-18": 1430,
-      "2023-12-17": 1440,
-      "2023-12-16": 67
+      "2023-12-18": 1158
     }
   },
   {
@@ -1036,7 +1034,7 @@
     "timeMonth": 0,
     "timeYear": 2500,
     "dailyMinutesDown": {
-      "2024-05-27": 777,
+      "2024-05-27": 798,
       "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
