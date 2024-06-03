@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-03": 200,
+      "2024-06-03": 212,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2024-06-03": 200,
+      "2024-06-03": 212,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -570,7 +570,7 @@
     "uptime": "87.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.01%",
+    "uptimeMonth": "47.99%",
     "uptimeYear": "88.68%",
     "time": 2662,
     "timeDay": 0,
@@ -578,7 +578,7 @@
     "timeMonth": 642,
     "timeYear": 2562,
     "dailyMinutesDown": {
-      "2024-06-03": 200,
+      "2024-06-03": 212,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -861,17 +861,17 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "94.70%",
-    "uptimeDay": "1.01%",
-    "uptimeWeek": "4.34%",
-    "uptimeMonth": "0.88%",
-    "uptimeYear": "83.67%",
+    "status": "down",
+    "uptime": "94.78%",
+    "uptimeDay": "1.85%",
+    "uptimeWeek": "4.46%",
+    "uptimeMonth": "0.90%",
+    "uptimeYear": "83.93%",
     "time": 1290,
-    "timeDay": 1622,
-    "timeWeek": 1581,
-    "timeMonth": 1557,
-    "timeYear": 1358,
+    "timeDay": 1461,
+    "timeWeek": 1567,
+    "timeMonth": 1553,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2024-06-03": 200,
       "2024-06-02": 1426,
@@ -933,8 +933,7 @@
       "2024-04-07": 1430,
       "2024-04-06": 1440,
       "2024-04-05": 1417,
-      "2024-04-04": 1422,
-      "2024-04-03": 755
+      "2024-04-04": 825
     }
   },
   {
@@ -954,7 +953,7 @@
     "timeMonth": 0,
     "timeYear": 2500,
     "dailyMinutesDown": {
-      "2024-06-03": 200,
+      "2024-06-03": 212,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
