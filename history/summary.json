@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 1395,
+      "2024-06-25": 1406,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-06-25": 1395,
+      "2024-06-25": 1406,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -600,7 +600,7 @@
     "timeMonth": 784,
     "timeYear": 2524,
     "dailyMinutesDown": {
-      "2024-06-25": 1395,
+      "2024-06-25": 1406,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -686,7 +686,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asct.systems.ico",
     "slug": "asct-systems-asct-systems",
     "status": "up",
-    "uptime": "84.90%",
+    "uptime": "84.91%",
     "uptimeDay": "97.66%",
     "uptimeWeek": "99.47%",
     "uptimeMonth": "98.63%",
@@ -914,17 +914,17 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "96.86%",
-    "uptimeDay": "5.34%",
-    "uptimeWeek": "3.23%",
-    "uptimeMonth": "0.81%",
-    "uptimeYear": "90.12%",
+    "uptimeDay": "6.06%",
+    "uptimeWeek": "3.34%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "90.13%",
     "time": 1326,
-    "timeDay": 1684,
-    "timeWeek": 1534,
-    "timeMonth": 1504,
-    "timeYear": 1309,
+    "timeDay": 1588,
+    "timeWeek": 1518,
+    "timeMonth": 1500,
+    "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-06-25": 1318,
       "2024-06-24": 1383,
@@ -963,7 +963,7 @@
       "2024-05-22": 1395,
       "2024-05-21": 1349,
       "2024-05-20": 1431,
-      "2024-05-19": 154
+      "2024-05-19": 113
     }
   },
   {
@@ -983,7 +983,7 @@
     "timeMonth": 0,
     "timeYear": 2502,
     "dailyMinutesDown": {
-      "2024-06-25": 1395,
+      "2024-06-25": 1406,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
