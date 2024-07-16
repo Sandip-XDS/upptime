@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-16": 613,
+      "2024-07-16": 628,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-07-16": 613,
+      "2024-07-16": 628,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -612,7 +612,7 @@
     "status": "down",
     "uptime": "85.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.39%",
+    "uptimeWeek": "39.24%",
     "uptimeMonth": "29.56%",
     "uptimeYear": "79.17%",
     "time": 2545,
@@ -621,7 +621,7 @@
     "timeMonth": 661,
     "timeYear": 2413,
     "dailyMinutesDown": {
-      "2024-07-16": 613,
+      "2024-07-16": 628,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -946,17 +946,17 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "1.64%",
-    "uptimeWeek": "3.71%",
-    "uptimeMonth": "4.37%",
-    "uptimeYear": "90.07%",
+    "status": "down",
+    "uptime": "96.92%",
+    "uptimeDay": "2.67%",
+    "uptimeWeek": "3.85%",
+    "uptimeMonth": "4.41%",
+    "uptimeYear": "90.16%",
     "time": 1378,
-    "timeDay": 1782,
-    "timeWeek": 1780,
-    "timeMonth": 1582,
-    "timeYear": 1361,
+    "timeDay": 1679,
+    "timeWeek": 1767,
+    "timeMonth": 1580,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2024-07-16": 613,
       "2024-07-15": 1398,
@@ -995,7 +995,7 @@
       "2024-06-12": 1425,
       "2024-06-11": 1430,
       "2024-06-10": 1430,
-      "2024-06-09": 1184
+      "2024-06-09": 712
     }
   },
   {
@@ -1015,7 +1015,7 @@
     "timeMonth": 0,
     "timeYear": 2501,
     "dailyMinutesDown": {
-      "2024-07-16": 613,
+      "2024-07-16": 628,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
