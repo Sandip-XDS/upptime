@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 1257,
+      "2024-07-28": 1297,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-07-28": 1257,
+      "2024-07-28": 1297,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -626,14 +626,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "29.56%",
-    "uptimeYear": "75.77%",
+    "uptimeYear": "75.76%",
     "time": 2490,
     "timeDay": 633,
     "timeWeek": 621,
     "timeMonth": 625,
     "timeYear": 2334,
     "dailyMinutesDown": {
-      "2024-07-28": 1257,
+      "2024-07-28": 1297,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -743,17 +743,17 @@
     "url": "http://asct.systems",
     "icon": "https://icons.duckduckgo.com/ip3/asct.systems.ico",
     "slug": "asct-systems-asct-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "79.82%",
+    "uptimeDay": "79.85%",
     "uptimeWeek": "87.27%",
     "uptimeMonth": "96.83%",
-    "uptimeYear": "99.46%",
-    "time": 2131,
-    "timeDay": 6660,
-    "timeWeek": 6030,
-    "timeMonth": 4983,
-    "timeYear": 2125,
+    "uptimeYear": "99.47%",
+    "time": 2135,
+    "timeDay": 6691,
+    "timeWeek": 6025,
+    "timeMonth": 4987,
+    "timeYear": 2131,
     "dailyMinutesDown": {
       "2024-07-28": 271,
       "2024-07-27": 339,
@@ -799,8 +799,7 @@
       "2024-03-11": 51,
       "2024-02-21": 86,
       "2024-02-20": 98,
-      "2024-02-19": 178,
-      "2024-02-18": 26
+      "2024-02-19": 178
     }
   },
   {
@@ -820,7 +819,7 @@
     "timeMonth": 1612,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2024-07-28": 1237,
+      "2024-07-28": 1277,
       "2024-07-27": 1431,
       "2024-07-26": 1431,
       "2024-07-25": 1401,
@@ -877,7 +876,7 @@
     "timeMonth": 0,
     "timeYear": 2498,
     "dailyMinutesDown": {
-      "2024-07-28": 1257,
+      "2024-07-28": 1297,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
