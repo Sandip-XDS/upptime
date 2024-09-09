@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 1362,
+      "2024-09-09": 1372,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.thenewstream.com.ico",
     "slug": "thenewstream-admin",
     "status": "down",
-    "uptime": "77.97%",
+    "uptime": "77.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-09-09": 1362,
+      "2024-09-09": 1372,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -676,7 +676,7 @@
     "timeMonth": 460,
     "timeYear": 2032,
     "dailyMinutesDown": {
-      "2024-09-09": 1362,
+      "2024-09-09": 1372,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -896,16 +896,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "96.51%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "1.64%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "88.31%",
-    "time": 1459,
-    "timeDay": 1692,
-    "timeWeek": 1515,
-    "timeMonth": 1575,
+    "status": "down",
+    "uptime": "96.52%",
+    "uptimeDay": "0.68%",
+    "uptimeWeek": "1.73%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "88.34%",
+    "time": 1432,
+    "timeDay": 1388,
+    "timeWeek": 1494,
+    "timeMonth": 1570,
     "timeYear": 1443,
     "dailyMinutesDown": {
       "2024-09-09": 1362,
@@ -951,7 +951,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1411,
       "2024-07-29": 1412,
-      "2024-07-28": 953
+      "2024-07-28": 797
     }
   },
   {
