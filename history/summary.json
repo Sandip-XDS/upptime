@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shardacomputers.xyz.ico",
     "slug": "sharda-computers",
     "status": "down",
-    "uptime": "18.00%",
+    "uptime": "17.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 342,
+      "2024-09-11": 352,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-09-11": 342,
+      "2024-09-11": 352,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -678,7 +678,7 @@
     "timeMonth": 454,
     "timeYear": 2016,
     "dailyMinutesDown": {
-      "2024-09-11": 342,
+      "2024-09-11": 352,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -900,16 +900,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "96.50%",
-    "uptimeDay": "1.85%",
-    "uptimeWeek": "1.31%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "88.25%",
+    "uptimeDay": "2.48%",
+    "uptimeWeek": "1.40%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "88.26%",
     "time": 1433,
-    "timeDay": 1446,
-    "timeWeek": 1489,
-    "timeMonth": 1574,
+    "timeDay": 1327,
+    "timeWeek": 1466,
+    "timeMonth": 1569,
     "timeYear": 1443,
     "dailyMinutesDown": {
       "2024-09-11": 342,
@@ -956,7 +956,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1411,
-      "2024-07-29": 888
+      "2024-07-29": 834
     }
   },
   {
