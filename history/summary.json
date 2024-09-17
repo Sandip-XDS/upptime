@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 1187,
+      "2024-09-17": 1196,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2024-09-17": 1187,
+      "2024-09-17": 1196,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -673,7 +673,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apolloltms.com.ico",
     "slug": "apolloltms",
     "status": "down",
-    "uptime": "80.94%",
+    "uptime": "80.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -684,7 +684,7 @@
     "timeMonth": 428,
     "timeYear": 1975,
     "dailyMinutesDown": {
-      "2024-09-17": 1187,
+      "2024-09-17": 1196,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -912,16 +912,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "96.46%",
-    "uptimeDay": "4.64%",
-    "uptimeWeek": "2.64%",
-    "uptimeMonth": "0.41%",
-    "uptimeYear": "88.07%",
-    "time": 1446,
-    "timeDay": 1845,
-    "timeWeek": 1542,
-    "timeMonth": 1556,
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "5.26%",
+    "uptimeWeek": "2.73%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "88.12%",
+    "time": 1447,
+    "timeDay": 1774,
+    "timeWeek": 1533,
+    "timeMonth": 1553,
     "timeYear": 1448,
     "dailyMinutesDown": {
       "2024-09-17": 1137,
@@ -968,7 +968,7 @@
       "2024-08-07": 1411,
       "2024-08-06": 1385,
       "2024-08-05": 1394,
-      "2024-08-04": 1077
+      "2024-08-04": 772
     }
   },
   {
