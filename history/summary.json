@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-04": 1282,
+      "2024-10-04": 1291,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-10-04": 1282,
+      "2024-10-04": 1291,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -701,7 +701,7 @@
     "timeMonth": 394,
     "timeYear": 1894,
     "dailyMinutesDown": {
-      "2024-10-04": 1282,
+      "2024-10-04": 1291,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -930,17 +930,17 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "5.03%",
-    "uptimeWeek": "3.28%",
-    "uptimeMonth": "3.68%",
-    "uptimeYear": "87.67%",
+    "status": "down",
+    "uptime": "96.41%",
+    "uptimeDay": "5.68%",
+    "uptimeWeek": "3.37%",
+    "uptimeMonth": "3.70%",
+    "uptimeYear": "87.72%",
     "time": 1469,
-    "timeDay": 1727,
-    "timeWeek": 1765,
-    "timeMonth": 1695,
-    "timeYear": 1481,
+    "timeDay": 1670,
+    "timeWeek": 1752,
+    "timeMonth": 1692,
+    "timeYear": 1480,
     "dailyMinutesDown": {
       "2024-10-04": 1209,
       "2024-10-03": 1440,
@@ -988,7 +988,7 @@
       "2024-08-22": 1401,
       "2024-08-21": 1418,
       "2024-08-20": 1415,
-      "2024-08-19": 278
+      "2024-08-19": 10
     }
   },
   {
@@ -1154,8 +1154,8 @@
     "status": "down",
     "uptime": "98.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.63%",
-    "uptimeMonth": "89.17%",
+    "uptimeWeek": "53.53%",
+    "uptimeMonth": "89.14%",
     "uptimeYear": "98.21%",
     "time": 1004,
     "timeDay": 0,
@@ -1163,7 +1163,7 @@
     "timeMonth": 820,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2024-10-04": 1282,
+      "2024-10-04": 1292,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 460,
