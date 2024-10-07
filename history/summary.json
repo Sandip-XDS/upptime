@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-07": 1055,
+      "2024-10-07": 1064,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-10-07": 1055,
+      "2024-10-07": 1064,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -704,7 +704,7 @@
     "timeMonth": 406,
     "timeYear": 1872,
     "dailyMinutesDown": {
-      "2024-10-07": 1055,
+      "2024-10-07": 1064,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -936,16 +936,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "2.97%",
-    "uptimeMonth": "3.66%",
-    "uptimeYear": "87.63%",
+    "status": "down",
+    "uptime": "96.41%",
+    "uptimeDay": "1.97%",
+    "uptimeWeek": "3.06%",
+    "uptimeMonth": "3.68%",
+    "uptimeYear": "87.69%",
     "time": 1475,
-    "timeDay": 1789,
-    "timeWeek": 1688,
-    "timeMonth": 1706,
+    "timeDay": 1675,
+    "timeWeek": 1675,
+    "timeMonth": 1703,
     "timeYear": 1484,
     "dailyMinutesDown": {
       "2024-10-07": 1055,
@@ -994,7 +994,7 @@
       "2024-08-25": 1422,
       "2024-08-24": 1412,
       "2024-08-23": 1394,
-      "2024-08-22": 658
+      "2024-08-22": 381
     }
   },
   {
@@ -1161,8 +1161,8 @@
     "status": "down",
     "uptime": "98.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "13.54%",
-    "uptimeMonth": "79.82%",
+    "uptimeWeek": "13.44%",
+    "uptimeMonth": "79.80%",
     "uptimeYear": "97.44%",
     "time": 1003,
     "timeDay": 0,
@@ -1170,7 +1170,7 @@
     "timeMonth": 784,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2024-10-07": 1055,
+      "2024-10-07": 1065,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
