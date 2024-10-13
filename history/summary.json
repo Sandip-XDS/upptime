@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-13": 1309,
+      "2024-10-13": 1318,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-13": 1309,
+      "2024-10-13": 1318,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -710,7 +710,7 @@
     "timeMonth": 415,
     "timeYear": 1831,
     "dailyMinutesDown": {
-      "2024-10-13": 1309,
+      "2024-10-13": 1318,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -948,16 +948,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "96.37%",
-    "uptimeDay": "1.05%",
-    "uptimeWeek": "2.21%",
-    "uptimeMonth": "3.76%",
-    "uptimeYear": "87.51%",
+    "status": "down",
+    "uptime": "96.39%",
+    "uptimeDay": "1.69%",
+    "uptimeWeek": "2.26%",
+    "uptimeMonth": "3.78%",
+    "uptimeYear": "87.58%",
     "time": 1492,
-    "timeDay": 1852,
-    "timeWeek": 1724,
-    "timeMonth": 1759,
+    "timeDay": 1721,
+    "timeWeek": 1731,
+    "timeMonth": 1755,
     "timeYear": 1495,
     "dailyMinutesDown": {
       "2024-10-13": 1294,
@@ -1006,7 +1006,7 @@
       "2024-08-31": 1395,
       "2024-08-30": 1422,
       "2024-08-29": 1412,
-      "2024-08-28": 1065
+      "2024-08-28": 703
     }
   },
   {
@@ -1175,7 +1175,7 @@
     "uptime": "97.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.52%",
+    "uptimeMonth": "59.50%",
     "uptimeYear": "95.75%",
     "time": 1006,
     "timeDay": 0,
@@ -1183,7 +1183,7 @@
     "timeMonth": 771,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2024-10-13": 1309,
+      "2024-10-13": 1319,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
