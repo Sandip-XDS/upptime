@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-21": 922,
+      "2024-11-21": 937,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-11-21": 922,
+      "2024-11-21": 937,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -748,7 +748,7 @@
     "timeMonth": 416,
     "timeYear": 1546,
     "dailyMinutesDown": {
-      "2024-11-21": 922,
+      "2024-11-21": 937,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -1025,16 +1025,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "96.43%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "2.40%",
-    "uptimeMonth": "0.79%",
-    "uptimeYear": "87.32%",
+    "status": "down",
+    "uptime": "96.44%",
+    "uptimeDay": "1.09%",
+    "uptimeWeek": "2.56%",
+    "uptimeMonth": "0.83%",
+    "uptimeYear": "87.36%",
     "time": 1527,
-    "timeDay": 1739,
-    "timeWeek": 1790,
-    "timeMonth": 1763,
+    "timeDay": 1550,
+    "timeWeek": 1773,
+    "timeMonth": 1760,
     "timeYear": 1549,
     "dailyMinutesDown": {
       "2024-11-21": 922,
@@ -1084,7 +1084,7 @@
       "2024-10-08": 1413,
       "2024-10-07": 1415,
       "2024-10-06": 1410,
-      "2024-10-05": 1182
+      "2024-10-05": 963
     }
   },
   {
@@ -1096,7 +1096,7 @@
     "uptime": "80.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.49%",
+    "uptimeMonth": "26.45%",
     "uptimeYear": "60.56%",
     "time": 2451,
     "timeDay": 0,
@@ -1104,7 +1104,7 @@
     "timeMonth": 2197,
     "timeYear": 2372,
     "dailyMinutesDown": {
-      "2024-11-21": 922,
+      "2024-11-21": 938,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -1285,7 +1285,7 @@
     "timeMonth": 0,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2024-11-21": 922,
+      "2024-11-21": 938,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
