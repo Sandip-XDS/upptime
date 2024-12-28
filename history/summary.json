@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 1000,
+      "2024-12-28": 1010,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-12-28": 1000,
+      "2024-12-28": 1010,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -785,7 +785,7 @@
     "timeMonth": 363,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2024-12-28": 1000,
+      "2024-12-28": 1010,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -1033,7 +1033,7 @@
     "uptime": "99.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.63%",
+    "uptimeMonth": "69.61%",
     "uptimeYear": "96.92%",
     "time": 2143,
     "timeDay": 0,
@@ -1041,7 +1041,7 @@
     "timeMonth": 182,
     "timeYear": 2165,
     "dailyMinutesDown": {
-      "2024-12-28": 1000,
+      "2024-12-28": 1010,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -1106,16 +1106,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "98.08%",
-    "uptimeDay": "7.34%",
-    "uptimeWeek": "7.40%",
-    "uptimeMonth": "16.03%",
-    "uptimeYear": "93.00%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "8.02%",
+    "uptimeWeek": "7.50%",
+    "uptimeMonth": "17.09%",
+    "uptimeYear": "93.09%",
     "time": 1533,
-    "timeDay": 1640,
-    "timeWeek": 1606,
-    "timeMonth": 1610,
+    "timeDay": 1592,
+    "timeWeek": 1597,
+    "timeMonth": 1607,
     "timeYear": 1577,
     "dailyMinutesDown": {
       "2024-12-28": 937,
@@ -1144,8 +1144,7 @@
       "2024-12-05": 1363,
       "2024-12-04": 1385,
       "2024-12-03": 1425,
-      "2024-12-02": 1348,
-      "2024-12-01": 274
+      "2024-12-02": 1160
     }
   },
   {
@@ -1154,7 +1153,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intelliloop.app.ico",
     "slug": "intelliloop",
     "status": "down",
-    "uptime": "78.17%",
+    "uptime": "78.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1165,7 +1164,7 @@
     "timeMonth": 0,
     "timeYear": 2356,
     "dailyMinutesDown": {
-      "2024-12-28": 1000,
+      "2024-12-28": 1011,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -1381,7 +1380,7 @@
     "timeMonth": 0,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-12-28": 1001,
+      "2024-12-28": 1011,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
