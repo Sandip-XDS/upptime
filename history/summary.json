@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 1419,
+      "2025-02-01": 1429,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2025-02-01": 1419,
+      "2025-02-01": 1429,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 287,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2025-02-01": 1419,
+      "2025-02-01": 1429,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1081,7 +1081,7 @@
     "timeMonth": 0,
     "timeYear": 2268,
     "dailyMinutesDown": {
-      "2025-02-01": 1419,
+      "2025-02-01": 1429,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1181,16 +1181,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "10.66%",
-    "uptimeWeek": "6.76%",
-    "uptimeMonth": "50.10%",
-    "uptimeYear": "95.84%",
+    "uptimeDay": "11.30%",
+    "uptimeWeek": "6.85%",
+    "uptimeMonth": "50.17%",
+    "uptimeYear": "95.85%",
     "time": 1561,
-    "timeDay": 1636,
-    "timeWeek": 1538,
-    "timeMonth": 1591,
+    "timeDay": 1604,
+    "timeWeek": 1532,
+    "timeMonth": 1590,
     "timeYear": 1589,
     "dailyMinutesDown": {
       "2025-02-01": 1265,
@@ -1209,7 +1209,7 @@
       "2025-01-19": 1338,
       "2025-01-18": 1309,
       "2025-01-17": 1357,
-      "2025-01-16": 401
+      "2025-01-16": 372
     }
   },
   {
@@ -1229,7 +1229,7 @@
     "timeMonth": 0,
     "timeYear": 2344,
     "dailyMinutesDown": {
-      "2025-02-01": 1419,
+      "2025-02-01": 1429,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1458,7 +1458,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monetizemedia.com.ico",
     "slug": "monetizemedia",
     "status": "down",
-    "uptime": "89.77%",
+    "uptime": "89.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1469,7 +1469,7 @@
     "timeMonth": 0,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-02-01": 1419,
+      "2025-02-01": 1429,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
