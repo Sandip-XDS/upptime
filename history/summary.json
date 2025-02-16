@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-16": 565,
+      "2025-02-16": 575,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2025-02-16": 565,
+      "2025-02-16": 575,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 327,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2025-02-16": 565,
+      "2025-02-16": 575,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -1096,7 +1096,7 @@
     "timeMonth": 0,
     "timeYear": 2330,
     "dailyMinutesDown": {
-      "2025-02-16": 565,
+      "2025-02-16": 575,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -1211,16 +1211,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "6.71%",
-    "uptimeWeek": "5.93%",
-    "uptimeMonth": "49.53%",
-    "uptimeYear": "95.79%",
+    "uptimeDay": "7.40%",
+    "uptimeWeek": "6.03%",
+    "uptimeMonth": "49.61%",
+    "uptimeYear": "95.80%",
     "time": 1561,
-    "timeDay": 1518,
-    "timeWeek": 1592,
-    "timeMonth": 1582,
+    "timeDay": 1463,
+    "timeWeek": 1582,
+    "timeMonth": 1580,
     "timeYear": 1591,
     "dailyMinutesDown": {
       "2025-02-16": 565,
@@ -1240,7 +1240,7 @@
       "2025-02-02": 1350,
       "2025-02-01": 1277,
       "2025-01-31": 1366,
-      "2025-01-30": 218
+      "2025-01-30": 182
     }
   },
   {
@@ -1249,7 +1249,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intelliloop.app.ico",
     "slug": "intelliloop",
     "status": "down",
-    "uptime": "75.36%",
+    "uptime": "75.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1260,7 +1260,7 @@
     "timeMonth": 0,
     "timeYear": 2346,
     "dailyMinutesDown": {
-      "2025-02-16": 565,
+      "2025-02-16": 575,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -1515,7 +1515,7 @@
     "timeMonth": 0,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2025-02-16": 565,
+      "2025-02-16": 575,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
