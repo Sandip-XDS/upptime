@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-13": 937,
+      "2025-03-13": 957,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2025-03-13": 938,
+      "2025-03-13": 957,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 249,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2025-03-13": 938,
+      "2025-03-13": 957,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -1120,7 +1120,7 @@
     "timeMonth": 0,
     "timeYear": 2437,
     "dailyMinutesDown": {
-      "2025-03-13": 938,
+      "2025-03-13": 957,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -1260,16 +1260,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "7.81%",
-    "uptimeWeek": "7.81%",
-    "uptimeMonth": "45.12%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "9.14%",
+    "uptimeWeek": "8.00%",
+    "uptimeMonth": "45.18%",
     "uptimeYear": "95.43%",
     "time": 1574,
-    "timeDay": 1827,
-    "timeWeek": 1789,
-    "timeMonth": 1650,
+    "timeDay": 1774,
+    "timeWeek": 1780,
+    "timeMonth": 1647,
     "timeYear": 1606,
     "dailyMinutesDown": {
       "2025-03-13": 850,
@@ -1290,7 +1290,7 @@
       "2025-02-26": 1363,
       "2025-02-25": 1394,
       "2025-02-24": 1358,
-      "2025-02-23": 372
+      "2025-02-23": 345
     }
   },
   {
@@ -1310,7 +1310,7 @@
     "timeMonth": 0,
     "timeYear": 2342,
     "dailyMinutesDown": {
-      "2025-03-13": 938,
+      "2025-03-13": 957,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -1579,7 +1579,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monetizemedia.com.ico",
     "slug": "monetizemedia",
     "status": "down",
-    "uptime": "87.24%",
+    "uptime": "87.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1590,7 +1590,7 @@
     "timeMonth": 0,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2025-03-13": 938,
+      "2025-03-13": 957,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
