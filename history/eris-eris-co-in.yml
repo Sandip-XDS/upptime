@@ -1,7 +1,7 @@
 url: https://eris.co.in
-status: up
-code: 200
-responseTime: 2716
-lastUpdated: 2025-03-16T15:52:25.614Z
+status: down
+code: 503
+responseTime: 921
+lastUpdated: 2025-03-16T16:11:04.914Z
 startTime: 2021-05-06T02:18:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
