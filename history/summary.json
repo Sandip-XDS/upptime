@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 345,
+      "2025-03-26": 354,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2025-03-26": 345,
+      "2025-03-26": 355,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 167,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-03-26": 345,
+      "2025-03-26": 355,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1125,14 +1125,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "72.94%",
+    "uptimeYear": "72.93%",
     "time": 2317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2480,
     "dailyMinutesDown": {
-      "2025-03-26": 345,
+      "2025-03-26": 355,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1285,16 +1285,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "3.21%",
-    "uptimeWeek": "5.01%",
-    "uptimeMonth": "46.59%",
-    "uptimeYear": "95.55%",
+    "uptimeDay": "3.86%",
+    "uptimeWeek": "5.10%",
+    "uptimeMonth": "46.96%",
+    "uptimeYear": "95.58%",
     "time": 1598,
-    "timeDay": 1811,
-    "timeWeek": 1802,
-    "timeMonth": 1770,
+    "timeDay": 1736,
+    "timeWeek": 1792,
+    "timeMonth": 1768,
     "timeYear": 1620,
     "dailyMinutesDown": {
       "2025-03-26": 308,
@@ -1315,7 +1315,7 @@
       "2025-03-11": 1254,
       "2025-03-10": 1342,
       "2025-03-09": 1298,
-      "2025-03-08": 284
+      "2025-03-08": 121
     }
   },
   {
@@ -1335,7 +1335,7 @@
     "timeMonth": 0,
     "timeYear": 2333,
     "dailyMinutesDown": {
-      "2025-03-26": 345,
+      "2025-03-26": 355,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1627,7 +1627,7 @@
     "timeMonth": 0,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2025-03-26": 345,
+      "2025-03-26": 355,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
