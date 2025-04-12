@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-12": 907,
+      "2025-04-12": 926,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2025-04-12": 907,
+      "2025-04-12": 926,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 159,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-04-12": 907,
+      "2025-04-12": 926,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -1146,7 +1146,7 @@
     "timeMonth": 0,
     "timeYear": 2552,
     "dailyMinutesDown": {
-      "2025-04-12": 907,
+      "2025-04-12": 926,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -1316,16 +1316,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "3.90%",
-    "uptimeWeek": "5.13%",
-    "uptimeMonth": "35.74%",
-    "uptimeYear": "94.64%",
+    "uptimeDay": "5.21%",
+    "uptimeWeek": "5.32%",
+    "uptimeMonth": "35.88%",
+    "uptimeYear": "94.66%",
     "time": 1612,
-    "timeDay": 1833,
-    "timeWeek": 1833,
-    "timeMonth": 1822,
+    "timeDay": 1782,
+    "timeWeek": 1822,
+    "timeMonth": 1820,
     "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-04-12": 875,
@@ -1349,7 +1349,7 @@
       "2025-03-25": 1406,
       "2025-03-24": 1341,
       "2025-03-23": 1342,
-      "2025-03-22": 424
+      "2025-03-22": 363
     }
   },
   {
@@ -1369,7 +1369,7 @@
     "timeMonth": 0,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-04-12": 907,
+      "2025-04-12": 926,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -1667,14 +1667,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.29%",
+    "uptimeYear": "46.28%",
     "time": 820,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-04-12": 907,
+      "2025-04-12": 926,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
