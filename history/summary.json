@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-18": 795,
+      "2025-04-18": 816,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2025-04-18": 795,
+      "2025-04-18": 816,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -802,7 +802,7 @@
     "timeMonth": 171,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-04-18": 795,
+      "2025-04-18": 816,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -1152,7 +1152,7 @@
     "timeMonth": 0,
     "timeYear": 2586,
     "dailyMinutesDown": {
-      "2025-04-18": 795,
+      "2025-04-18": 816,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -1327,19 +1327,19 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "3.17%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "4.58%",
     "uptimeWeek": "8.53%",
-    "uptimeMonth": "42.16%",
-    "uptimeYear": "95.18%",
-    "time": 1634,
-    "timeDay": 2436,
-    "timeWeek": 1898,
-    "timeMonth": 1849,
+    "uptimeMonth": "42.36%",
+    "uptimeYear": "95.20%",
+    "time": 1635,
+    "timeDay": 2314,
+    "timeWeek": 1879,
+    "timeMonth": 1847,
     "timeYear": 1650,
     "dailyMinutesDown": {
-      "2025-04-18": 759,
+      "2025-04-18": 760,
       "2025-04-17": 1317,
       "2025-04-16": 1310,
       "2025-04-15": 1272,
@@ -1358,7 +1358,7 @@
       "2025-04-02": 1354,
       "2025-04-01": 1244,
       "2025-03-31": 1332,
-      "2025-03-30": 638
+      "2025-03-30": 549
     }
   },
   {
@@ -1378,7 +1378,7 @@
     "timeMonth": 0,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-04-18": 795,
+      "2025-04-18": 816,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -1672,7 +1672,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monetizemedia.com.ico",
     "slug": "monetizemedia",
     "status": "down",
-    "uptime": "85.07%",
+    "uptime": "85.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1683,7 +1683,7 @@
     "timeMonth": 0,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2025-04-18": 795,
+      "2025-04-18": 816,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
