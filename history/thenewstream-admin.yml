@@ -1,7 +1,7 @@
 url: http://admin.thenewstream.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-23T00:59:30.342Z
+status: up
+code: 200
+responseTime: 302
+lastUpdated: 2025-05-23T02:44:47.724Z
 startTime: 2021-05-06T02:18:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
