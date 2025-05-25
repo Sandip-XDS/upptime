@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-24": 1344,
+      "2025-05-25": 70,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -379,8 +380,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 253,
-    "timeWeek": 190,
-    "timeMonth": 227,
+    "timeDay": 269,
+    "timeWeek": 207,
+    "timeMonth": 232,
     "timeYear": 168,
     "dailyMinutesDown": {}
   },
@@ -406,18 +406,19 @@
     "url": "http://admin.thenewstream.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.thenewstream.com.ico",
     "slug": "thenewstream-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "65.86%",
-    "uptimeDay": "87.85%",
+    "uptimeDay": "87.83%",
     "uptimeWeek": "89.42%",
-    "uptimeMonth": "70.91%",
-    "uptimeYear": "5.79%",
-    "time": 1047,
-    "timeDay": 1451,
-    "timeWeek": 977,
-    "timeMonth": 1198,
-    "timeYear": 1198,
+    "uptimeMonth": "71.29%",
+    "uptimeYear": "5.83%",
+    "time": 1061,
+    "timeDay": 1608,
+    "timeWeek": 976,
+    "timeMonth": 1203,
+    "timeYear": 1203,
     "dailyMinutesDown": {
+      "2025-05-25": 0,
       "2025-05-24": 175,
       "2025-05-23": 216,
       "2025-05-22": 167,
@@ -777,8 +778,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   },
   {
@@ -792,13 +792,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "2.35%",
-    "time": 597,
-    "timeDay": 266,
-    "timeWeek": 231,
-    "timeMonth": 257,
+    "time": 596,
+    "timeDay": 220,
+    "timeWeek": 219,
+    "timeMonth": 261,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-05-24": 1344,
+      "2025-05-25": 70,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -1154,8 +1155,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   },
   {
@@ -1164,18 +1164,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/asct.systems.ico",
     "slug": "asct-systems-asct-systems",
     "status": "down",
-    "uptime": "89.29%",
+    "uptime": "89.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.63%",
-    "time": 2490,
+    "uptimeYear": "56.60%",
+    "time": 2491,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2800,
+    "timeYear": 2804,
     "dailyMinutesDown": {
-      "2025-05-24": 1344,
+      "2025-05-25": 70,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -1369,8 +1370,7 @@
       "2024-05-30": 22,
       "2024-05-28": 28,
       "2024-05-27": 19,
-      "2024-05-26": 33,
-      "2024-05-25": 22
+      "2024-05-26": 33
     }
   },
   {
@@ -1379,18 +1379,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
     "status": "down",
-    "uptime": "98.46%",
+    "uptime": "98.45%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.60%",
-    "uptimeMonth": "25.14%",
-    "uptimeYear": "93.76%",
+    "uptimeWeek": "3.33%",
+    "uptimeMonth": "24.77%",
+    "uptimeYear": "93.73%",
     "time": 1684,
-    "timeDay": 1265,
-    "timeWeek": 2271,
-    "timeMonth": 1955,
+    "timeDay": 0,
+    "timeWeek": 2253,
+    "timeMonth": 1960,
     "timeYear": 1688,
     "dailyMinutesDown": {
-      "2025-05-24": 1344,
+      "2025-05-25": 70,
+      "2025-05-24": 1440,
       "2025-05-23": 1380,
       "2025-05-22": 1371,
       "2025-05-21": 1322,
@@ -1423,7 +1424,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intelliloop.app.ico",
     "slug": "intelliloop",
     "status": "down",
-    "uptime": "70.39%",
+    "uptime": "70.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1434,7 +1435,8 @@
     "timeMonth": 0,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-05-24": 1344,
+      "2025-05-25": 70,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -1718,8 +1720,7 @@
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
-      "2024-05-26": 1440,
-      "2024-05-25": 1440
+      "2024-05-26": 1440
     }
   },
   {
@@ -1732,14 +1733,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.25%",
-    "time": 766,
+    "uptimeYear": "35.22%",
+    "time": 765,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 870,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2025-05-24": 1344,
+      "2025-05-25": 70,
+      "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
