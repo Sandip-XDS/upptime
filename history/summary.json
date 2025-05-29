@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-29": 1355,
+      "2025-05-29": 1367,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -406,13 +406,13 @@
     "url": "http://admin.thenewstream.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.thenewstream.com.ico",
     "slug": "thenewstream-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "78.44%",
-    "uptimeWeek": "86.78%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "78.43%",
+    "uptimeWeek": "86.77%",
+    "uptimeMonth": "93.07%",
     "uptimeYear": "99.42%",
-    "time": 1100,
+    "time": 1104,
     "timeDay": 1066,
     "timeWeek": 1297,
     "timeMonth": 1227,
@@ -440,7 +440,7 @@
       "2025-05-09": 79,
       "2025-05-07": 49,
       "2025-05-05": 82,
-      "2025-05-03": 80
+      "2025-05-03": 62
     }
   },
   {
@@ -460,7 +460,7 @@
     "timeMonth": 262,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2025-05-29": 1355,
+      "2025-05-29": 1367,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -830,14 +830,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.28%",
+    "uptimeYear": "55.27%",
     "time": 2500,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2839,
     "dailyMinutesDown": {
-      "2025-05-29": 1355,
+      "2025-05-29": 1367,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -1045,7 +1045,7 @@
     "uptime": "98.26%",
     "uptimeDay": "1.46%",
     "uptimeWeek": "2.61%",
-    "uptimeMonth": "14.91%",
+    "uptimeMonth": "14.89%",
     "uptimeYear": "92.91%",
     "time": 1684,
     "timeDay": 1395,
@@ -1053,7 +1053,7 @@
     "timeMonth": 1953,
     "timeYear": 1690,
     "dailyMinutesDown": {
-      "2025-05-29": 1335,
+      "2025-05-29": 1347,
       "2025-05-28": 1440,
       "2025-05-27": 1384,
       "2025-05-26": 1323,
@@ -1100,7 +1100,7 @@
     "timeMonth": 0,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-05-29": 1356,
+      "2025-05-29": 1368,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
@@ -1405,7 +1405,7 @@
     "timeMonth": 0,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-05-29": 1356,
+      "2025-05-29": 1368,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
