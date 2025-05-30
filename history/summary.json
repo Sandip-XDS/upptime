@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-30": 404,
+      "2025-05-30": 418,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -406,15 +406,15 @@
     "url": "http://admin.thenewstream.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.thenewstream.com.ico",
     "slug": "thenewstream-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "71.45%",
-    "uptimeWeek": "86.22%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "71.43%",
+    "uptimeWeek": "86.29%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.39%",
-    "time": 1126,
+    "time": 1130,
     "timeDay": 1110,
-    "timeWeek": 1333,
+    "timeWeek": 1339,
     "timeMonth": 1224,
     "timeYear": 1224,
     "dailyMinutesDown": {
@@ -441,7 +441,7 @@
       "2025-05-09": 79,
       "2025-05-07": 49,
       "2025-05-05": 82,
-      "2025-05-03": 33
+      "2025-05-03": 15
     }
   },
   {
@@ -461,7 +461,7 @@
     "timeMonth": 261,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2025-05-30": 404,
+      "2025-05-30": 418,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -838,7 +838,7 @@
     "timeMonth": 0,
     "timeYear": 2843,
     "dailyMinutesDown": {
-      "2025-05-30": 404,
+      "2025-05-30": 418,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -1042,13 +1042,13 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "98.23%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "2.61%",
-    "uptimeMonth": "13.80%",
-    "uptimeYear": "92.82%",
-    "time": 1684,
+    "status": "down",
+    "uptime": "98.24%",
+    "uptimeDay": "0.99%",
+    "uptimeWeek": "2.75%",
+    "uptimeMonth": "14.15%",
+    "uptimeYear": "92.85%",
+    "time": 1685,
     "timeDay": 2258,
     "timeWeek": 1842,
     "timeMonth": 1957,
@@ -1082,7 +1082,7 @@
       "2025-05-05": 1366,
       "2025-05-04": 1299,
       "2025-05-03": 1382,
-      "2025-05-02": 675
+      "2025-05-02": 521
     }
   },
   {
@@ -1102,7 +1102,7 @@
     "timeMonth": 0,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-05-30": 404,
+      "2025-05-30": 419,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -1407,7 +1407,7 @@
     "timeMonth": 0,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-05-30": 404,
+      "2025-05-30": 419,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
