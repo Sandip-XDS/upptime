@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 443,
+      "2025-06-07": 464,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -406,11 +406,11 @@
     "url": "http://admin.thenewstream.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin.thenewstream.com.ico",
     "slug": "thenewstream-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "78.37%",
+    "uptimeDay": "78.35%",
     "uptimeWeek": "87.97%",
-    "uptimeMonth": "92.65%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.39%",
     "time": 1188,
     "timeDay": 771,
@@ -435,7 +435,7 @@
       "2025-05-24": 175,
       "2025-05-23": 216,
       "2025-05-22": 167,
-      "2025-05-21": 101
+      "2025-05-21": 63
     }
   },
   {
@@ -455,7 +455,7 @@
     "timeMonth": 240,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-06-07": 444,
+      "2025-06-07": 464,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -832,7 +832,7 @@
     "timeMonth": 0,
     "timeYear": 2970,
     "dailyMinutesDown": {
-      "2025-06-07": 444,
+      "2025-06-07": 464,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1040,16 +1040,16 @@
     "status": "down",
     "uptime": "98.21%",
     "uptimeDay": "8.28%",
-    "uptimeWeek": "6.17%",
-    "uptimeMonth": "12.15%",
-    "uptimeYear": "92.68%",
+    "uptimeWeek": "6.09%",
+    "uptimeMonth": "12.10%",
+    "uptimeYear": "92.67%",
     "time": 1685,
     "timeDay": 1595,
-    "timeWeek": 1706,
+    "timeWeek": 1723,
     "timeMonth": 1915,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2025-06-07": 411,
+      "2025-06-07": 432,
       "2025-06-06": 1318,
       "2025-06-05": 1318,
       "2025-06-04": 1344,
@@ -1097,7 +1097,7 @@
     "timeMonth": 0,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-06-07": 444,
+      "2025-06-07": 465,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1402,7 +1402,7 @@
     "timeMonth": 0,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-06-07": 444,
+      "2025-06-07": 465,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
