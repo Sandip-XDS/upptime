@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 342,
+      "2025-06-24": 352,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -407,10 +407,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.thenewstream.com.ico",
     "slug": "thenewstream-admin",
     "status": "down",
-    "uptime": "99.07%",
+    "uptime": "99.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.58%",
+    "uptimeMonth": "53.56%",
     "uptimeYear": "96.13%",
     "time": 1172,
     "timeDay": 0,
@@ -418,7 +418,7 @@
     "timeMonth": 1181,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-06-24": 342,
+      "2025-06-24": 353,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -468,7 +468,7 @@
     "timeMonth": 220,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-06-24": 342,
+      "2025-06-24": 353,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -845,7 +845,7 @@
     "timeMonth": 0,
     "timeYear": 3128,
     "dailyMinutesDown": {
-      "2025-06-24": 342,
+      "2025-06-24": 353,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -1062,12 +1062,12 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "98.60%",
-    "uptimeDay": "9.73%",
-    "uptimeWeek": "7.44%",
-    "uptimeMonth": "30.64%",
-    "uptimeYear": "94.22%",
+    "status": "down",
+    "uptime": "98.62%",
+    "uptimeDay": "10.44%",
+    "uptimeWeek": "7.54%",
+    "uptimeMonth": "31.42%",
+    "uptimeYear": "94.28%",
     "time": 1691,
     "timeDay": 1597,
     "timeWeek": 1681,
@@ -1097,7 +1097,7 @@
       "2025-06-04": 1344,
       "2025-06-03": 1420,
       "2025-06-02": 1288,
-      "2025-06-01": 398
+      "2025-06-01": 60
     }
   },
   {
@@ -1117,7 +1117,7 @@
     "timeMonth": 0,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-06-24": 342,
+      "2025-06-24": 353,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -1422,7 +1422,7 @@
     "timeMonth": 0,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-06-24": 342,
+      "2025-06-24": 353,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
