@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 1397,
+      "2025-07-31": 1412,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -396,7 +396,7 @@
     "uptimeYear": "100.00%",
     "time": 168,
     "timeDay": 292,
-    "timeWeek": 193,
+    "timeWeek": 197,
     "timeMonth": 194,
     "timeYear": 177,
     "dailyMinutesDown": {}
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-07-31": 1398,
+      "2025-07-31": 1412,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -505,7 +505,7 @@
     "timeMonth": 1324,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2025-07-31": 1398,
+      "2025-07-31": 1412,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -889,7 +889,7 @@
     "timeMonth": 0,
     "timeYear": 2053,
     "dailyMinutesDown": {
-      "2025-07-31": 1398,
+      "2025-07-31": 1412,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -1133,16 +1133,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "9.32%",
-    "uptimeWeek": "15.28%",
-    "uptimeMonth": "61.45%",
-    "uptimeYear": "96.79%",
-    "time": 1697,
-    "timeDay": 1582,
-    "timeWeek": 1595,
-    "timeMonth": 1618,
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "10.26%",
+    "uptimeWeek": "15.42%",
+    "uptimeMonth": "63.10%",
+    "uptimeYear": "96.92%",
+    "time": 1696,
+    "timeDay": 1542,
+    "timeWeek": 1589,
+    "timeMonth": 1615,
     "timeYear": 1699,
     "dailyMinutesDown": {
       "2025-07-31": 1264,
@@ -1158,7 +1158,7 @@
       "2025-07-21": 1316,
       "2025-07-20": 1184,
       "2025-07-19": 1232,
-      "2025-07-18": 869
+      "2025-07-18": 148
     }
   },
   {
@@ -1170,7 +1170,7 @@
     "uptime": "69.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.57%",
+    "uptimeMonth": "87.61%",
     "uptimeYear": "32.00%",
     "time": 2084,
     "timeDay": 132,
@@ -1461,7 +1461,7 @@
     "timeMonth": 0,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2025-07-31": 1398,
+      "2025-07-31": 1412,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
