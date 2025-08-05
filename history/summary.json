@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-05": 692,
+      "2025-08-05": 707,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-08-05": 692,
+      "2025-08-05": 707,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -510,7 +510,7 @@
     "timeMonth": 1345,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-08-05": 692,
+      "2025-08-05": 707,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -894,7 +894,7 @@
     "timeMonth": 0,
     "timeYear": 1920,
     "dailyMinutesDown": {
-      "2025-08-05": 692,
+      "2025-08-05": 707,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -1142,16 +1142,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "19.32%",
-    "uptimeWeek": "15.13%",
-    "uptimeMonth": "63.86%",
+    "uptimeDay": "20.31%",
+    "uptimeWeek": "15.27%",
+    "uptimeMonth": "63.90%",
     "uptimeYear": "96.99%",
     "time": 1695,
-    "timeDay": 1675,
-    "timeWeek": 1619,
-    "timeMonth": 1612,
+    "timeDay": 1632,
+    "timeWeek": 1612,
+    "timeMonth": 1610,
     "timeYear": 1696,
     "dailyMinutesDown": {
       "2025-08-05": 615,
@@ -1167,7 +1167,7 @@
       "2025-07-26": 1210,
       "2025-07-25": 1235,
       "2025-07-24": 1189,
-      "2025-07-23": 635
+      "2025-07-23": 619
     }
   },
   {
@@ -1462,14 +1462,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.65%",
+    "uptimeYear": "15.64%",
     "time": 796,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2025-08-05": 692,
+      "2025-08-05": 707,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
