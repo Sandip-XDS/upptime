@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 1236,
+      "2025-08-28": 1245,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -392,7 +392,7 @@
     "uptime": "98.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.20%",
+    "uptimeMonth": "39.17%",
     "uptimeYear": "94.93%",
     "time": 171,
     "timeDay": 0,
@@ -400,7 +400,7 @@
     "timeMonth": 209,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-08-28": 1236,
+      "2025-08-28": 1245,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-08-28": 1236,
+      "2025-08-28": 1245,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -553,7 +553,7 @@
     "timeMonth": 0,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-08-28": 1236,
+      "2025-08-28": 1246,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -926,7 +926,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asct.systems.ico",
     "slug": "asct-systems-asct-systems",
     "status": "down",
-    "uptime": "83.86%",
+    "uptime": "83.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -937,7 +937,7 @@
     "timeMonth": 0,
     "timeYear": 1819,
     "dailyMinutesDown": {
-      "2025-08-28": 1236,
+      "2025-08-28": 1246,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -1205,16 +1205,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "17.35%",
-    "uptimeWeek": "21.85%",
-    "uptimeMonth": "74.88%",
-    "uptimeYear": "97.91%",
+    "uptimeDay": "17.33%",
+    "uptimeWeek": "21.94%",
+    "uptimeMonth": "75.24%",
+    "uptimeYear": "97.94%",
     "time": 1693,
-    "timeDay": 1531,
-    "timeWeek": 1600,
-    "timeMonth": 1655,
+    "timeDay": 1536,
+    "timeWeek": 1596,
+    "timeMonth": 1654,
     "timeYear": 1697,
     "dailyMinutesDown": {
       "2025-08-28": 1000,
@@ -1226,7 +1226,7 @@
       "2025-08-22": 1099,
       "2025-08-21": 1284,
       "2025-08-20": 1202,
-      "2025-08-19": 829
+      "2025-08-19": 672
     }
   },
   {
@@ -1238,7 +1238,7 @@
     "uptime": "68.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "39.15%",
+    "uptimeMonth": "39.13%",
     "uptimeYear": "27.05%",
     "time": 1951,
     "timeDay": 0,
@@ -1246,7 +1246,7 @@
     "timeMonth": 483,
     "timeYear": 1658,
     "dailyMinutesDown": {
-      "2025-08-28": 1236,
+      "2025-08-28": 1246,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -1547,7 +1547,7 @@
     "timeMonth": 0,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-08-28": 1236,
+      "2025-08-28": 1246,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
