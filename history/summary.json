@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-29": 1157,
+      "2025-08-29": 1166,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.intelliloop.app.ico",
     "slug": "intelli-loop-admin",
     "status": "down",
-    "uptime": "98.77%",
+    "uptime": "98.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.09%",
+    "uptimeMonth": "36.07%",
     "uptimeYear": "94.67%",
     "time": 171,
     "timeDay": 0,
@@ -400,7 +400,7 @@
     "timeMonth": 209,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-08-29": 1157,
+      "2025-08-29": 1166,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -439,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-08-29": 1157,
+      "2025-08-29": 1166,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -555,7 +555,7 @@
     "timeMonth": 0,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-08-29": 1157,
+      "2025-08-29": 1167,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -939,7 +939,7 @@
     "timeMonth": 0,
     "timeYear": 1766,
     "dailyMinutesDown": {
-      "2025-08-29": 1157,
+      "2025-08-29": 1167,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -1208,16 +1208,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "14.99%",
-    "uptimeWeek": "20.74%",
-    "uptimeMonth": "75.47%",
-    "uptimeYear": "97.96%",
+    "uptimeDay": "15.03%",
+    "uptimeWeek": "20.83%",
+    "uptimeMonth": "75.87%",
+    "uptimeYear": "97.99%",
     "time": 1690,
-    "timeDay": 1552,
-    "timeWeek": 1610,
-    "timeMonth": 1654,
+    "timeDay": 1547,
+    "timeWeek": 1607,
+    "timeMonth": 1652,
     "timeYear": 1696,
     "dailyMinutesDown": {
       "2025-08-29": 979,
@@ -1229,7 +1229,7 @@
       "2025-08-23": 1125,
       "2025-08-22": 1099,
       "2025-08-21": 1284,
-      "2025-08-20": 616
+      "2025-08-20": 441
     }
   },
   {
@@ -1241,7 +1241,7 @@
     "uptime": "68.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.04%",
+    "uptimeMonth": "36.02%",
     "uptimeYear": "26.79%",
     "time": 1949,
     "timeDay": 0,
@@ -1249,7 +1249,7 @@
     "timeMonth": 277,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2025-08-29": 1157,
+      "2025-08-29": 1167,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -1551,7 +1551,7 @@
     "timeMonth": 0,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2025-08-29": 1157,
+      "2025-08-29": 1167,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
