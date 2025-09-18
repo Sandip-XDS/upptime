@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-18": 319,
+      "2025-09-18": 334,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2025-09-18": 319,
+      "2025-09-18": 334,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -459,7 +459,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-09-18": 319,
+      "2025-09-18": 334,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -587,8 +587,8 @@
     "uptime": "63.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.14%",
-    "uptimeYear": "4.50%",
+    "uptimeMonth": "52.17%",
+    "uptimeYear": "4.51%",
     "time": 473,
     "timeDay": 384,
     "timeWeek": 277,
@@ -952,7 +952,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asct.systems.ico",
     "slug": "asct-systems-asct-systems",
     "status": "down",
-    "uptime": "82.79%",
+    "uptime": "82.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -963,7 +963,7 @@
     "timeMonth": 0,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-09-18": 319,
+      "2025-09-18": 334,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -1246,16 +1246,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "16.56%",
-    "uptimeWeek": "17.55%",
-    "uptimeMonth": "74.02%",
-    "uptimeYear": "97.83%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "17.59%",
+    "uptimeWeek": "17.70%",
+    "uptimeMonth": "74.07%",
+    "uptimeYear": "97.84%",
     "time": 1683,
-    "timeDay": 1603,
-    "timeWeek": 1565,
-    "timeMonth": 1605,
+    "timeDay": 1575,
+    "timeWeek": 1561,
+    "timeMonth": 1604,
     "timeYear": 1688,
     "dailyMinutesDown": {
       "2025-09-18": 227,
@@ -1268,7 +1268,7 @@
       "2025-09-11": 1177,
       "2025-09-10": 1176,
       "2025-09-09": 1264,
-      "2025-09-08": 403
+      "2025-09-08": 380
     }
   },
   {
@@ -1288,7 +1288,7 @@
     "timeMonth": 0,
     "timeYear": 1548,
     "dailyMinutesDown": {
-      "2025-09-18": 319,
+      "2025-09-18": 334,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -1609,7 +1609,7 @@
     "timeMonth": 0,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2025-09-18": 319,
+      "2025-09-18": 335,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
