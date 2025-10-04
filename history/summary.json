@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shardacomputers.xyz.ico",
     "slug": "sharda-computers",
     "status": "down",
-    "uptime": "13.67%",
+    "uptime": "13.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-04": 331,
+      "2025-10-04": 341,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-10-04": 331,
+      "2025-10-04": 341,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -475,7 +475,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-10-04": 331,
+      "2025-10-04": 341,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -980,7 +980,7 @@
     "timeMonth": 0,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-10-04": 331,
+      "2025-10-04": 341,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -1277,16 +1277,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "23.03%",
-    "uptimeWeek": "22.10%",
-    "uptimeMonth": "79.65%",
-    "uptimeYear": "98.30%",
+    "uptimeDay": "23.71%",
+    "uptimeWeek": "22.12%",
+    "uptimeMonth": "79.72%",
+    "uptimeYear": "98.31%",
     "time": 1681,
-    "timeDay": 1795,
-    "timeWeek": 1752,
-    "timeMonth": 1618,
+    "timeDay": 1773,
+    "timeWeek": 1746,
+    "timeMonth": 1617,
     "timeYear": 1681,
     "dailyMinutesDown": {
       "2025-10-04": 331,
@@ -1297,7 +1297,7 @@
       "2025-09-29": 1057,
       "2025-09-28": 1179,
       "2025-09-27": 956,
-      "2025-09-26": 874
+      "2025-09-26": 845
     }
   },
   {
@@ -1317,7 +1317,7 @@
     "timeMonth": 0,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2025-10-04": 331,
+      "2025-10-04": 341,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -1638,7 +1638,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monetizemedia.com.ico",
     "slug": "monetizemedia",
     "status": "down",
-    "uptime": "76.17%",
+    "uptime": "76.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1649,7 +1649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-04": 331,
+      "2025-10-04": 341,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
