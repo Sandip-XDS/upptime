@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-06": 1244,
+      "2025-10-06": 1253,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -393,14 +393,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.25%",
+    "uptimeYear": "84.24%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-10-06": 1244,
+      "2025-10-06": 1253,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -477,7 +477,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-10-06": 1244,
+      "2025-10-06": 1253,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -982,7 +982,7 @@
     "timeMonth": 0,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-10-06": 1244,
+      "2025-10-06": 1253,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -1281,16 +1281,16 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "20.59%",
-    "uptimeWeek": "19.83%",
-    "uptimeMonth": "76.65%",
-    "uptimeYear": "98.05%",
+    "uptimeDay": "20.56%",
+    "uptimeWeek": "19.92%",
+    "uptimeMonth": "76.75%",
+    "uptimeYear": "98.06%",
     "time": 1684,
-    "timeDay": 1751,
-    "timeWeek": 1775,
-    "timeMonth": 1629,
+    "timeDay": 1688,
+    "timeWeek": 1770,
+    "timeMonth": 1628,
     "timeYear": 1682,
     "dailyMinutesDown": {
       "2025-10-06": 989,
@@ -1302,7 +1302,7 @@
       "2025-09-30": 1177,
       "2025-09-29": 1057,
       "2025-09-28": 1179,
-      "2025-09-27": 74
+      "2025-09-27": 31
     }
   },
   {
@@ -1322,7 +1322,7 @@
     "timeMonth": 0,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2025-10-06": 1244,
+      "2025-10-06": 1254,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
@@ -1655,7 +1655,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-06": 1244,
+      "2025-10-06": 1254,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
