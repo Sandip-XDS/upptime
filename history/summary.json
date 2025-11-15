@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-15": 709,
+      "2025-11-15": 718,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-11-15": 709,
+      "2025-11-15": 719,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -517,7 +517,7 @@
     "timeMonth": 0,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-11-15": 709,
+      "2025-11-15": 719,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -1017,14 +1017,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.31%",
+    "uptimeYear": "9.30%",
     "time": 1382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-11-15": 709,
+      "2025-11-15": 719,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -1363,15 +1363,15 @@
     "url": "https://eris.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/eris.co.in.ico",
     "slug": "eris-eris-co-in",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "20.16%",
-    "uptimeWeek": "17.72%",
-    "uptimeMonth": "72.85%",
-    "uptimeYear": "97.74%",
+    "uptimeDay": "20.80%",
+    "uptimeWeek": "17.73%",
+    "uptimeMonth": "73.04%",
+    "uptimeYear": "97.75%",
     "time": 1659,
-    "timeDay": 1802,
-    "timeWeek": 1604,
+    "timeDay": 1773,
+    "timeWeek": 1605,
     "timeMonth": 1544,
     "timeYear": 1657,
     "dailyMinutesDown": {
@@ -1385,7 +1385,7 @@
       "2025-11-08": 1100,
       "2025-11-07": 1173,
       "2025-11-06": 1198,
-      "2025-11-05": 693
+      "2025-11-05": 608
     }
   },
   {
@@ -1405,7 +1405,7 @@
     "timeMonth": 0,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2025-11-15": 710,
+      "2025-11-15": 719,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -1759,7 +1759,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-15": 710,
+      "2025-11-15": 719,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
